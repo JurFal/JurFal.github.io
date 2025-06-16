@@ -11,9 +11,9 @@ let user = ref({
   first_name: '',
   last_name: '',
   email: 'zyc12241252@163.com',
-  avatar: 'https://avatars.githubusercontent.com/u/112413958?s=400&u=24970d0e0773bb7d637374458fca9e8f12a06591&v=4', // 假设的头像URL
+  avatar: 'https://avatars.githubusercontent.com/u/112413958?s=400&u=24970d0e0773bb7d637374458fca9e8f12a06591&v=4',
   github: 'https://github.com/JurFal',
-  resumePath: '/index/resume.pdf'
+  resumePath: '/resume.pdf'
 })
 
 const openResume = () => {
